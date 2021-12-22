@@ -1,0 +1,2 @@
+pyinstaller
+auto-py-to-exe
