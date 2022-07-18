@@ -13,6 +13,8 @@ Install the required python packages (note smtplib is installed by default in py
 Before you run the script, you must specify an e-mail address and its password for the script to flood.
 If your using a GMail account for this python script, you must go to the account settings. Go to "Security" and enable "Less secure app access". It is recommended to not use your personal account for security reasons.
 
+NOTE: As of May 31, 2022 Google has removed the option to enable "Less secure app access". Generate and use app passwords instead for this email flooder application to work.
+
 # Optional (Windows Only)
 If you wish to make a portable executable file out of this python program, then run:
 pip install -r optional.txt
